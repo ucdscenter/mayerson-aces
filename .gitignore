@@ -1,0 +1,6 @@
+/venv/
+/twitter/twitter_credentials.py
+/twitter/__pycache__/
+/twitter/data/*
+/reddit/data/*
+/blog/data/*

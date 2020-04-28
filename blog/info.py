@@ -1,0 +1,2 @@
+BLOGGER_API_NAME = 'parenting-blogs'
+BLOGGER_API_KEY = 'AIzaSyBsNYkWj5Uk74m9Apgv23K9fIEV2n8ZEMU'
