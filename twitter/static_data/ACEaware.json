@@ -1,0 +1,134 @@
+{
+    "nodes": [
+        {
+            "graph_score": {
+                "handle": "TomPrac",
+                "betweenness": [],
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 1253064779930972162,
+            "followers_count": 3,
+            "retweet_count": 0,
+            "hashtags": [
+                "aceaware"
+            ],
+            "text": [
+                "ACE AWARE - once the lid has flipped, it's incredibly easy to misinterpret a child's expressions. #aceaware\u2026 https://t.co/Olp2sFXwee"
+            ],
+            "group": [
+                1
+            ],
+            "name": "TomPrac",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "ryannmcshanee1",
+                "betweenness": [],
+                "degree": 0.25,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 830176373599789057,
+            "followers_count": 1231,
+            "retweet_count": 3,
+            "hashtags": [],
+            "text": [
+                "RT @lesleymcconnon: This morning\u2019s online learning activity completed. I would highly recommend this short 50min training course to all wor\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "ryannmcshanee1",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "lesleymcconnon",
+                "betweenness": [],
+                "degree": 0.75,
+                "harmonic": 15.0
+            },
+            "score": 1,
+            "id": 899631078,
+            "followers_count": 145,
+            "retweet_count": 3,
+            "hashtags": [],
+            "text": [
+                "This morning\u2019s online learning activity completed. I would highly recommend this short 50min training course to all\u2026 https://t.co/KX6e3UDdu3"
+            ],
+            "group": [
+                1
+            ],
+            "name": "lesleymcconnon",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "GlasgowAces",
+                "betweenness": [],
+                "degree": 0.25,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 1143646768556662785,
+            "followers_count": 607,
+            "retweet_count": 3,
+            "hashtags": [],
+            "text": [
+                "RT @lesleymcconnon: This morning\u2019s online learning activity completed. I would highly recommend this short 50min training course to all wor\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "GlasgowAces",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "StBridesPS",
+                "betweenness": [],
+                "degree": 0.25,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 2151538834,
+            "followers_count": 1240,
+            "retweet_count": 3,
+            "hashtags": [],
+            "text": [
+                "RT @lesleymcconnon: This morning\u2019s online learning activity completed. I would highly recommend this short 50min training course to all wor\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "StBridesPS",
+            "hgroup": []
+        }
+    ],
+    "links": [
+        {
+            "source": 830176373599789057,
+            "target": 899631078,
+            "value": 0.2
+        },
+        {
+            "source": 1143646768556662785,
+            "target": 899631078,
+            "value": 0.2
+        },
+        {
+            "source": 2151538834,
+            "target": 899631078,
+            "value": 0.2
+        }
+    ],
+    "terms": [
+        {
+            "h": "aceaware",
+            "score": 1
+        }
+    ]
+}

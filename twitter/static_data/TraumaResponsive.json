@@ -1,0 +1,668 @@
+{
+    "nodes": [
+        {
+            "graph_score": {
+                "handle": "misswilliams27",
+                "betweenness": [],
+                "degree": 0.045454545454545456,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 1034481219424215041,
+            "followers_count": 56,
+            "retweet_count": 2,
+            "hashtags": [],
+            "text": [
+                "RT @desautels_phd: Relational Regulation requires a safe, calm, emotionally available, trusting presence from the adult! Brain states matte\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "misswilliams27",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "desautels_phd",
+                "betweenness": [],
+                "degree": 0.045454545454545456,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 168835292,
+            "followers_count": 6609,
+            "retweet_count": 2,
+            "hashtags": [],
+            "text": [
+                "Relational Regulation requires a safe, calm, emotionally available, trusting presence from the adult! Brain states\u2026 https://t.co/8Zzx9m3Dl0"
+            ],
+            "group": [
+                1
+            ],
+            "name": "desautels_phd",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "build_play_be",
+                "betweenness": [],
+                "degree": 0.045454545454545456,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 1215753792643391488,
+            "followers_count": 114,
+            "retweet_count": 5,
+            "hashtags": [],
+            "text": [
+                "RT @sencochat: On the hunt for ideas as to what a trauma responsive / mental health focused curriculum might look like when schools reopen.\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "build_play_be",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "sencochat",
+                "betweenness": [],
+                "degree": 0.2272727272727273,
+                "harmonic": 25.0
+            },
+            "score": 1,
+            "id": 1032913113975336960,
+            "followers_count": 6639,
+            "retweet_count": 5,
+            "hashtags": [],
+            "text": [
+                "On the hunt for ideas as to what a trauma responsive / mental health focused curriculum might look like when school\u2026 https://t.co/8js5Ip7A2p"
+            ],
+            "group": [
+                1
+            ],
+            "name": "sencochat",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "AutieAndy",
+                "betweenness": [],
+                "degree": 0.045454545454545456,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 914859207278710784,
+            "followers_count": 1473,
+            "retweet_count": 5,
+            "hashtags": [],
+            "text": [
+                "RT @sencochat: On the hunt for ideas as to what a trauma responsive / mental health focused curriculum might look like when schools reopen.\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "AutieAndy",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "Enoka326Abey",
+                "betweenness": [],
+                "degree": 0.045454545454545456,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 799747536743337984,
+            "followers_count": 132,
+            "retweet_count": 5,
+            "hashtags": [],
+            "text": [
+                "RT @sencochat: On the hunt for ideas as to what a trauma responsive / mental health focused curriculum might look like when schools reopen.\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "Enoka326Abey",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "scottiem3",
+                "betweenness": [],
+                "degree": 0.045454545454545456,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 232941048,
+            "followers_count": 318,
+            "retweet_count": 5,
+            "hashtags": [],
+            "text": [
+                "RT @sencochat: On the hunt for ideas as to what a trauma responsive / mental health focused curriculum might look like when schools reopen.\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "scottiem3",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "Rachael_YMCA",
+                "betweenness": [],
+                "degree": 0.045454545454545456,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 1159195171927592961,
+            "followers_count": 187,
+            "retweet_count": 5,
+            "hashtags": [],
+            "text": [
+                "RT @sencochat: On the hunt for ideas as to what a trauma responsive / mental health focused curriculum might look like when schools reopen.\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "Rachael_YMCA",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "ResilientFuture",
+                "betweenness": [],
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 3,
+            "id": 971598029756145665,
+            "followers_count": 37,
+            "retweet_count": 0,
+            "hashtags": [
+                "traumainformed",
+                "traumasafety",
+                "safetyandpredictability",
+                "traumainformed",
+                "traumainformed",
+                "understandingtrauma"
+            ],
+            "text": [
+                "HEARTS Core Guiding Principle #3: Safety &amp; Predictability\n\n#traumainformed #traumasafety #safetyandpredictability\u2026 https://t.co/6JL9ayGOG1",
+                "Strategies for HEARTS Core Guiding Principle #2: Cultural Humility &amp; Responsiveness\n\n#traumainformed\u2026 https://t.co/zS4VNQxOIM",
+                "HEARTS Core Guiding Principle #2: Cultural Humility &amp; Responsiveness\n\n#traumainformed #understandingtrauma\u2026 https://t.co/8pmB70sESR"
+            ],
+            "group": [
+                1
+            ],
+            "name": "ResilientFuture",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "sallycroachy",
+                "betweenness": [],
+                "degree": 0.5,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 1290671569,
+            "followers_count": 1873,
+            "retweet_count": 1,
+            "hashtags": [],
+            "text": [
+                "@girfec @scotgov @AberlourCCT @socworkscot @cisweb @children1st @EducationScot @YoungScot @YouthLinkScot @CYPCS\u2026 https://t.co/2IKFBrrjki"
+            ],
+            "group": [
+                1
+            ],
+            "name": "sallycroachy",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "scotgov",
+                "betweenness": [],
+                "degree": 0.045454545454545456,
+                "harmonic": 2.0
+            },
+            "score": 0,
+            "id": 46650770,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "scotgov",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "AberlourCCT",
+                "betweenness": [],
+                "degree": 0.045454545454545456,
+                "harmonic": 2.0
+            },
+            "score": 0,
+            "id": 174232054,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "AberlourCCT",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "socworkscot",
+                "betweenness": [],
+                "degree": 0.045454545454545456,
+                "harmonic": 2.0
+            },
+            "score": 0,
+            "id": 394591470,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "socworkscot",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "cisweb",
+                "betweenness": [],
+                "degree": 0.045454545454545456,
+                "harmonic": 2.0
+            },
+            "score": 0,
+            "id": 81081386,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "cisweb",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "children1st",
+                "betweenness": [],
+                "degree": 0.045454545454545456,
+                "harmonic": 2.0
+            },
+            "score": 0,
+            "id": 29194694,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "children1st",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "EducationScot",
+                "betweenness": [],
+                "degree": 0.045454545454545456,
+                "harmonic": 2.0
+            },
+            "score": 0,
+            "id": 314003959,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "EducationScot",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "YoungScot",
+                "betweenness": [],
+                "degree": 0.045454545454545456,
+                "harmonic": 2.0
+            },
+            "score": 0,
+            "id": 20990197,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "YoungScot",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "YouthLinkScot",
+                "betweenness": [],
+                "degree": 0.045454545454545456,
+                "harmonic": 2.0
+            },
+            "score": 0,
+            "id": 330248642,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "YouthLinkScot",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "CYPCS",
+                "betweenness": [],
+                "degree": 0.045454545454545456,
+                "harmonic": 2.0
+            },
+            "score": 0,
+            "id": 143773941,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "CYPCS",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "principalest",
+                "betweenness": [],
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 2,
+            "id": 3302950724,
+            "followers_count": 5003,
+            "retweet_count": 0,
+            "hashtags": [
+                "TruthBeTold",
+                "traumainformed",
+                "traumaresponsive",
+                "heal"
+            ],
+            "text": [
+                "My teachers are amazing!   Some of them are writing each student hand written letters!   This was one parent's resp\u2026 https://t.co/RJxUos5O6I",
+                "#TruthBeTold #traumainformed #traumaresponsive #heal https://t.co/ViM2M5j5ub"
+            ],
+            "group": [
+                1
+            ],
+            "name": "principalest",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "lez_reid",
+                "betweenness": [],
+                "degree": 0.045454545454545456,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 1244245716123475969,
+            "followers_count": 27,
+            "retweet_count": 2,
+            "hashtags": [
+                "Trauma",
+                "traumainformed",
+                "traumaresponsive",
+                "CONNECT",
+                "communicate",
+                "forbabyssake",
+                "strengthsbased"
+            ],
+            "text": [
+                "RT @geddley: #Trauma #traumainformed #traumaresponsive #CONNECT #communicate #forbabyssake #strengthsbased https://t.co/0jiiFHRIiz"
+            ],
+            "group": [
+                1
+            ],
+            "name": "lez_reid",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "geddley",
+                "betweenness": [],
+                "degree": 0.09090909090909091,
+                "harmonic": 10.0
+            },
+            "score": 1,
+            "id": 240355741,
+            "followers_count": 67,
+            "retweet_count": 2,
+            "hashtags": [
+                "Trauma",
+                "traumainformed",
+                "traumaresponsive",
+                "CONNECT",
+                "communicate",
+                "forbabyssake",
+                "strengthsbased"
+            ],
+            "text": [
+                "#Trauma #traumainformed #traumaresponsive #CONNECT #communicate #forbabyssake #strengthsbased https://t.co/0jiiFHRIiz"
+            ],
+            "group": [
+                1
+            ],
+            "name": "geddley",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "DianeBo95698662",
+                "betweenness": [],
+                "degree": 0.045454545454545456,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 956610280167010304,
+            "followers_count": 219,
+            "retweet_count": 2,
+            "hashtags": [
+                "Trauma",
+                "traumainformed",
+                "traumaresponsive",
+                "CONNECT",
+                "communicate",
+                "forbabyssake",
+                "strengthsbased"
+            ],
+            "text": [
+                "RT @geddley: #Trauma #traumainformed #traumaresponsive #CONNECT #communicate #forbabyssake #strengthsbased https://t.co/0jiiFHRIiz"
+            ],
+            "group": [
+                1
+            ],
+            "name": "DianeBo95698662",
+            "hgroup": []
+        }
+    ],
+    "links": [
+        {
+            "source": 1034481219424215041,
+            "target": 168835292,
+            "value": 0.2
+        },
+        {
+            "source": 1215753792643391488,
+            "target": 1032913113975336960,
+            "value": 0.2
+        },
+        {
+            "source": 914859207278710784,
+            "target": 1032913113975336960,
+            "value": 0.2
+        },
+        {
+            "source": 799747536743337984,
+            "target": 1032913113975336960,
+            "value": 0.2
+        },
+        {
+            "source": 232941048,
+            "target": 1032913113975336960,
+            "value": 0.2
+        },
+        {
+            "source": 1159195171927592961,
+            "target": 1032913113975336960,
+            "value": 0.2
+        },
+        {
+            "source": 1290671569,
+            "target": 1290671569,
+            "value": 0.1
+        },
+        {
+            "source": 1290671569,
+            "target": 46650770,
+            "value": 0.5
+        },
+        {
+            "source": 1290671569,
+            "target": 174232054,
+            "value": 0.5
+        },
+        {
+            "source": 1290671569,
+            "target": 394591470,
+            "value": 0.5
+        },
+        {
+            "source": 1290671569,
+            "target": 81081386,
+            "value": 0.5
+        },
+        {
+            "source": 1290671569,
+            "target": 29194694,
+            "value": 0.5
+        },
+        {
+            "source": 1290671569,
+            "target": 314003959,
+            "value": 0.5
+        },
+        {
+            "source": 1290671569,
+            "target": 20990197,
+            "value": 0.5
+        },
+        {
+            "source": 1290671569,
+            "target": 330248642,
+            "value": 0.5
+        },
+        {
+            "source": 1290671569,
+            "target": 143773941,
+            "value": 0.5
+        },
+        {
+            "source": 1244245716123475969,
+            "target": 240355741,
+            "value": 0.2
+        },
+        {
+            "source": 956610280167010304,
+            "target": 240355741,
+            "value": 0.2
+        }
+    ],
+    "terms": [
+        {
+            "h": "traumainformed",
+            "score": 10
+        },
+        {
+            "h": "traumaresponsive",
+            "score": 7
+        },
+        {
+            "h": "Trauma",
+            "score": 6
+        },
+        {
+            "h": "CONNECT",
+            "score": 6
+        },
+        {
+            "h": "communicate",
+            "score": 6
+        },
+        {
+            "h": "forbabyssake",
+            "score": 6
+        },
+        {
+            "h": "strengthsbased",
+            "score": 6
+        },
+        {
+            "h": "traumasafety",
+            "score": 1
+        },
+        {
+            "h": "safetyandpredictability",
+            "score": 1
+        },
+        {
+            "h": "understandingtrauma",
+            "score": 1
+        },
+        {
+            "h": "TruthBeTold",
+            "score": 1
+        },
+        {
+            "h": "heal",
+            "score": 1
+        }
+    ]
+}
