@@ -2,58 +2,35 @@
     <head>
         <title>Aces Social Media</title>
         <link rel="stylesheet" href="/static/css/bootstrap.min.css">
-         <style>
-  .hidden {
-  display : none;
-}
-.selected_edge {
-  stroke : steelblue;
-  stroke-opacity : 1;
-}
-.deselected_node {
-  opacity : .0;
-}
-.mouseover {
-  position : absolute;
-  background-color: steelblue;
-  width : 200px;
-  z-index : 1000000;
-  font-size: 8px;
-}
-
-.line {
-      fill: none;
-      stroke-width: 1;
-      opacity: .5;
-}
-.highlightedline {
-    fill: none;
-      stroke-width: 2.5;
-      opacity: 1;
-}
-.tinytext {
-  font-size : 10px;
-}
-
-
-.highlighted_text {
-  font-size : 25px;
-}
- </style>
     </head>
 <body>
     <div class="container-fluid">
-      <div class="mouseover hidden">
-        <p class="name mousep">hi there</p>
-        <p class="count mousep">hi there</p>
-        </div>
         <div class="row">
-            <div class="col-12">
-              <h3><span id="identifier"></span>:<span id="network-size"></span></h3>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-12" id="vis-div">
+            <div class="col-md-12">
+                <h1>Hashtag Results for 1 week!</h1>
+             <ul>
+                <li>
+                     <a href="/twitter/hashtag_network.html?hashtag=all_htags">All mentioned hashtags combined</a>
+                 </li>
+                 <li>
+                     <a href="twitter/hashtag_network.html?hashtag=AdverseChildhoodExperiences">#AdverseChildHoodExperiences</a>
+                 </li>
+                 <li>
+                     <a href="/twitter/hashtag_network.html?hashtag=ACEaware">#ACEaware</a>
+                 </li>
+                 <li>
+                     <a href="/twitter/hashtag_network.html?hashtag=Resilience">#Resilience</a>
+                 </li>
+                 <li>
+                     <a href="/twitter/hashtag_network.html?hashtag=traumainformed">#traumainformed</a>
+                 </li>
+                 <li>
+                     <a href="/twitter/hashtag_network.html?hashtag=TraumaResponsive">#TraumaResponsive</a>
+                 </li>
+                 <li>
+                     <a href="/twitter/hashtag_network.html?hashtag=ACEs">#ACEs</a>
+                 </li>
+             </ul>
             </div>
         </div>
     </div>
@@ -61,5 +38,4 @@
 <script src="/static/js/jquery.min.js"></script>
 <script src="/static/js/bootstrap.min.js"></script>
 <script src="/static/js/d3.min.js"></script>
-<script src="/twitter/interaction_network.js"></script>
 </html>
