@@ -399,14 +399,17 @@ class TwitterTool():
 if __name__ == '__main__':
 	#rfile = "data/ACEaware.json"
 	#wfile = "static_data/ACEaware_network.json"
-
-	for x in os.listdir("data"):
+	rfile = "data/all_blogs_and_hashtags.json"
+	wfile = "static_data/all_blogs_and_hashtags.json"
+	t = TwitterTool()
+	t.graph_format(rfile, wfile)
+	"""for x in os.listdir("data"):
 		if x[0] != '.':
 			rfile = "data/" + x
 			wfile = "static_data/" + x 
 			t = TwitterTool()
 			print(wfile)
-			t.graph_format(rfile, wfile, usergroups=[["ACEsConnection","DrBurkeHarris","CYWSanFrancisco","DocResilience","TreatingTrauma1","Reattachparent","ACEsAware","nctsn","CenterOnTrauma"]])
+			t.graph_format(rfile, wfile, usergroups=[["ACEsConnection","DrBurkeHarris","CYWSanFrancisco","DocResilience","TreatingTrauma1","Reattachparent","ACEsAware","nctsn","CenterOnTrauma"]])"""
 
 
 
